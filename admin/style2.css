@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)), url(img22.jpg);
+    background-size: cover;
+    background-position: fill;
+}
+.header{
+    color: rgb(47, 47, 207);
+}
+.login-left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+.header4{
+    color: rgb(163, 192, 59);
+}
+a{
+    color: teal;
+    text-decoration: none;
+}
